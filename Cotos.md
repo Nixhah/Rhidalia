@@ -1,18 +1,18 @@
-AC 20(+2 chainmail, shield)  
-Hp 30  
+AC 18(+2 chainmail)  
+Hp 32  
 Speed 30ft.  
 STR 14(+2)  
 DEX 10(+0)  
 CON 14(+2)  
 INT 16(+3)  
-WIS 8(-1)  
+WIS 10(+0)  
 CHA 14(+2)  
 
 ## Skills
-Arcana +5  
-History +5  
-Investigation +5  
-Persuasion +4  
+Arcana +6  
+History +6  
+Investigation +6  
+Persuasion +6  
 
 ## Languages
 Abyssal  
@@ -21,23 +21,31 @@ Rhidalian (Low Esoteran)
 Arverni  
 
 ## Saving Throws
-Str +5
-Con +4
+Int +6
+Wis +3
 
 ## Proficiencies
-All Armor  
-All Weapons  
+Heavy Armor  
+Longswords  
+I have 6 tool proficiencies apparently wtf  
 
-## Abilities & Feats
-Heavy Armor Master(DR 3/bludgeoning,piercing, & slashing)  
-Blindfighting(10 ft blindsense)  
-Second Wind(1d10+1)  
-Arcane Recovery(2)  
-Portent(5,12)  
-Darkvision 60ft
+
+## Abilities 
+Either Metamagic Adept or Eldritch Adept  
+Arcane Recovery(3)    
+Portent(14, 18)    
+Darkvision 60ft  
+Resist Poison + advantage on saves vs poison  
+Stonecunning  
 
 ## Spellcasting
-3rd level caster; DC 13, +5 to hit. 
+5th level caster; DC 14, +6 to hit. 
 
-## Info
-Custom Lineage(Gylstig) Fighter 1/Diviner 3
+
+
+## History
+Mountain Dwarf Diviner 5  
+Custom Lineage Fighter 1/Diviner 3  
+Custom Lineage Hexblade 3  
+Yuan-ti Moon Druid 2  
+Custom Lineage Life Cleric 1  

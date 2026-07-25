@@ -21,8 +21,8 @@ Smith: Anton (dead) -> Smith the Smith
 
 ## Talis Cloister
 
-Scholar Tolvar -> Peltar  
-"Apprentice" Tolmar - he's playing both sides, familiar is White Owl.
+Scholar Tolvar -> Peltar - AWOL after getting chaos curse from cracked orb, unknown and dangerous element.
+"Apprentice" Tolmar - he's playing both sides, familiar is White Owl. Took the orb.
 Theurge Grista - in charge of Peltar's health
 
 Any tall bearded man may enter the tower, all others are barred  
@@ -33,7 +33,7 @@ Curator: Qualton
 Adept: Crelar (dead)  
 Acoltye: Almon  
 Apprentice: Haki (dead)   
-??: Hagir, trying to decipher the command word of a cracked crystal ball belonging to Pellta. Working w/ Andrella.
+??: Hagir, trying to decipher the command word of a cracked crystal ball belonging to Pelta. Working w/ Andrella.
 
 ## Tavern - West Wind - Dying Minotaur
 
@@ -52,9 +52,10 @@ Quotes: "Not yet!"
 
 ## Keep
 
-Baron: Grellis Fairwind  
-Lady: Mary Fairwind  
-Daughter: Andrella; too clever by half    
+Baron: Grellis Fairwind; strangled, all clues point towards Garrot (too obvious).
+Lady: Mary Fairwind; holds the high justice & the low
+Daughter: Andrella; too clever by half, de Vere's fiance? Cursed by the cracked orb to witness the worst of all futures. 
+Dark Knight: 12 feet tall, white beard and 2 glowing blue eyes. Guardian of the castle? Can cast Wind Walk.
 
 ## Crows
 
