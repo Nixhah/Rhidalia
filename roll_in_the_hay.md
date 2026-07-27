@@ -2,8 +2,7 @@ A Roll In the Hay
 
 ---
 
-**ACT I, SCENE I. A street in Restenford.**
-
+**ACT I, SCENE I. A street in Restenford.*
 *Enter JACQUES DEVERRE, glowering after QUALTON's retreating form; KOTOS LONGFINGERS stands by.*
 
 **JACQUES:**  
@@ -113,7 +112,7 @@ What madness, lady, hath befallen here?
 What wouldst thou have thy servants do this hour?
 
 **BARONESS:**  
-My lord was strangled by an assassin's knot, 
+My lord was strangled by an assassin's knot,   
 And by the Baron was there left behind,  
 Three tokens, mute and strange, as if to mock us:  
 A golden string, torn from a wandering bard's  
