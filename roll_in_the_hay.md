@@ -48,7 +48,7 @@ Yet ever colored by the Baron's whim.
 **JACQUES:**  
 Aye — and the Baroness, and her fair child.  
 I trust they bear this trial as they may,  
-Yet still I ache for gentle Arabella.  
+Yet still I ache for gentle Andrella.  
 Would I had aided her when last we met!  
 No matter — how may we now lend our aid?  
 And wherefore, Kotos, dost thou loose thy sword?
@@ -232,7 +232,7 @@ Fair place than ever once we stood upon it.
 There was a ford at Restenford, in truth.
 
 **QUALTON:**  
-I have no time for this — I go now to Arabella.
+I have no time for this — I go now to Andrella.
 
 *QUALTON opens a book, takes on the shape of Guy Normand, and steps through into Pelltar's tower. Ere the others follow, each dons a guise not his own — for in that tower, roam things impossible, and magic bends to stranger law than theirs.*
 
