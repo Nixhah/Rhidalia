@@ -33,7 +33,7 @@ For what he calls the law, the law becomes.
 **JACQUES:**  
 Aye — and the Baroness, and her fair child.  
 I trust they bear this trial as they may,  
-Yet still I ache for gentle Arabella.  
+Yet still I ache for gentle Andrella.  
 Would I had aided her when last we met!  
 No matter — how may we now lend our aid?  
 And wherefore, Kotos, dost thou loose thy sword?
@@ -178,7 +178,7 @@ Fair place than ever once we stood upon it.
 There was a ford at Restenford, in truth.
 
 **QUALTON:**  
-I have no time for this — I go now to Arabella.
+I have no time for this — I go now to Anderella.
 
 *QUALTON opens a book, takes on the shape of Guy Normand, and steps through into Pelltar's tower.*
 
@@ -262,7 +262,7 @@ Thou'rt doing
 Perfectly well. I'd love to meet this Lord  
 Of Glass one day.
 
-*From the tower's crown, ANDRELLA hurls the horn into the shrieking dark of wind and shadow-shapes, and draws more shadows down to tear at Kotos's cloud. He glances at the ground below — haystacks piled about the tower's base, and one fine heap beneath the window whence Arabella stands. KOTOS flies at ANDRELLA and drives her, tackling, from the tower's height.*
+*From the tower's crown, ANDRELLA hurls the horn into the shrieking dark of wind and shadow-shapes, and draws more shadows down to tear at Kotos's cloud. He glances at the ground below — haystacks piled about the tower's base, and one fine heap beneath the window whence ANDRELLA stands. KOTOS flies at ANDRELLA and drives her, tackling, from the tower's height.*
 
 ---
 
