@@ -397,7 +397,7 @@ What hand it was that struck my husband down.
 Its Viceroy, called Arna — or Arnes, or Arma —  
 Rules there. Trust nothing that she offers thee.
 
-*Then the Dark Knight who slew the Baron — or one so like him none can swear the difference — lifts off his helm before them: an old man's face beneath, blue-eyed, long-bearded white as bone. He breathes upon them all, and on their mounts, and the Wind Walk takes them, turned to cloud and gale, and bears them through two hours' flight toward Garrot.*
+*Then the Dark Knight lifts off his helm before them: an old man's face beneath, blue-eyed, long-bearded white as bone. He breathes upon them all, and on their mounts, and the Wind Walk takes them, turned to cloud and gale, and bears them through two hours' flight toward Garrot.*
 
 **KOTOS:** *[to himself, aloft]*  
 How do the Vaghalter play into this web?  
