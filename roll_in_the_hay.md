@@ -113,9 +113,8 @@ What madness, lady, hath befallen here?
 What wouldst thou have thy servants do this hour?
 
 **BARONESS:**  
-My lord was strangled by a Knight of black,  
-Twelve feet in height, who came and went as smoke.  
-And by the coffin here he left behind  
+My lord was strangled by an assassin's knot, 
+And by the Baron was there left behind,  
 Three tokens, mute and strange, as if to mock us:  
 A golden string, torn from a wandering bard's  
 Own lute, who passed but lately out from Garrot;  
