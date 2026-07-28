@@ -152,7 +152,7 @@ Whoever laid this table wants us there.
 **BARONESS:**  
 Thou'lt swear an oath to me, here, now, this hour,  
 And I shall know the truth that lies within.  
-*[She lays her hand upon the ground, and looks up at him.]*  
+*[She lays her hand upon the coffin, and looks up at him.]*  
 Didst thou then slay my husband?
 
 **JACQUES:**  
