@@ -36,7 +36,28 @@ Or that hard code the frost-blood giants keep?
 Which of the three doth carry authority  
 When one man's oath doth cross another's land?
 
-**KOTOS:**  
+*A soft light gathers, and ALEOL, a whisper in the dark of the street, a small map curled tight beneath one arm.*
+
+**ALEOL:**
+Here is thy chart, drawn true, of hall and stair,  
+Of trap, of watch, and every guarded door.  
+I searched it well, and found there naught of worth —  
+Save one poor ring, not gold enough to keep.  
+
+*She sets the map down, and is gone as she came — yet something of her lingers on the air: a cool breath, sudden, of autumn leaves, though summer holds the town entire.*  
+
+**JACQUES:** *[breathing deep, distracted]*  
+Kotos — dost thou not smell it? Autumn's breath,  
+Here, now, in this the fullest heat of noon!  
+It quickens something strange within my breast,  
+As if my heart recalled a thing long lost.  
+Tell me — dost thou remember how fall smells?  
+
+**KOTOS:**
+My lord, it has been but a long hot summer —  
+No frost, no falling leaf, this many a month.  
+*[a beat, then, turning the talk aside]*  
+But thou didst ask of law, and law we'll have:  
 Rhidalian law binds where Rhidalia's writ  
 Yet reaches; the Esoteran custom holds  
 Where merchants strike their bargains, treaty-bound;  
@@ -53,7 +74,8 @@ Would I had aided her when last we met!
 No matter — how may we now lend our aid?  
 And wherefore, Kotos, dost thou loose thy sword?
 
-*Aleol had brought them, ere this hour, a chart of all the castle's winding halls, with word of traps well-laid and where the watchful guard did keep their post. KOTOS unbuckles his sword and belt, laying them gently upon the ground. Footsteps approach. Enter CAPTAIN GELPHIS with armed guardsmen and two great mastiffs, his face writ with care.*
+*KOTOS unbuckles his sword and belt, laying them gently upon the ground. Footsteps approach. Enter CAPTAIN GELPHIS with armed guardsmen and two great mastiffs, his face writ with c
+are.*
 
 **JACQUES:**  
 Well met, good Gelphis! Glad I see a friend.  
