@@ -31,7 +31,7 @@ I have 6 tool proficiencies apparently wtf
 
 
 ## Abilities 
-Either Metamagic Adept or Eldritch Adept  
+Metamagic Adept (subtle spell, quickened spell)
 Arcane Recovery(3)    
 Portent(14, 18)    
 Darkvision 60ft  
