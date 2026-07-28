@@ -77,8 +77,7 @@ Would I had aided her when last we met!
 No matter — how may we now lend our aid?  
 And wherefore, Kotos, dost thou loose thy sword?
 
-*KOTOS unbuckles his sword and belt, laying them gently upon the ground. Footsteps approach. Enter CAPTAIN GELPHIS with armed guardsmen and two great mastiffs, his face writ with c
-are.*
+*KOTOS unbuckles his sword and belt, laying them gently upon the ground. Footsteps approach. Enter CAPTAIN GELPHIS with armed guardsmen and two great mastiffs, his face writ with care.*
 
 **JACQUES:**  
 Well met, good Gelphis! Glad I see a friend.  
