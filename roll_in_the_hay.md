@@ -62,10 +62,10 @@ Rhidalian law binds where Rhidalia's writ
 Yet reaches; the Esoteran custom holds  
 Where merchants strike their bargains, treaty-bound;  
 And Giantish law knows only kept or broken —  
-No mercy lives between the two for them.
-The Yassa knows still less of mercy's shape:
-Join, or be broken — no third road is writ
-In all the Altan Ordu's iron code.
+No mercy lives between the two for them.  
+The Yassa knows still less of mercy's shape:  
+Join, or be broken — no third road is writ  
+In all the Altan Ordu's iron code.  
 Here, in this town, 'tis Rhidalia's law that rules,  
 Yet ever colored by the Baron's whim.
 
