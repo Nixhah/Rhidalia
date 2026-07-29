@@ -38,31 +38,3 @@ The Innkeep Abraham, coming to buy Restenford apple cider. He has red buttons on
 ## Theodring Gusfaelen, The Tattered Man
 Theodring Gusfaelen, Riftwalker, Throne Battlemage and symbiont of Cephalos. Member of the Order of the Veils; also known as the Tattered Man.  
 how Theodring Gusfaelen wielded Cephalos in the skies over Starnym; the bone blade mentioned in the vision of the cracked orb. 
-
-
-
-## Cotos
-Factions: Arveni(Aedui), Yeomanry   
-Enemies: The Library, Talus  
-
-For Rhidalia!  
-The Tower - worst of all possible futures, eternal war of the trees; nothing besides remains round the decay of that collosal wreck.
-1 favor alea  
-1 grudge library
-Oath of the Peach Tree  
-
-## Guy Norman
-Factions: Yeomanry  
-Enemies: Stormcrows, Arveni  
-
-idk favors    
-Grudge w/ Library 
-The Empress - Loyalty to the Queen 
-
-## de Vere
-Factions: University  
-Enemies: Library, ??
-
-idk favors  
-For Rhidalia!  
-The World - We have chosen oak over holly.

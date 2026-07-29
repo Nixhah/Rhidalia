@@ -31,15 +31,27 @@ I have 6 tool proficiencies apparently wtf
 
 
 ## Abilities 
-Metamagic Adept (subtle spell, quickened spell)
+Metamagic Adept (subtle spell, twinned spell)  
 Arcane Recovery(3)    
-Portent(14, 18)    
+Portent(16, 11)    
 Darkvision 60ft  
 Resist Poison + advantage on saves vs poison  
 Stonecunning  
 
 ## Spellcasting
 5th level caster; DC 14, +6 to hit. 
+
+## Factions
+Factions: Arveni(Aedui), Yeomanry   
+Enemies: The Library, Talus  
+Item: The Box  
+
+Inspiration  
+For Rhidalia!  
+The Tower - worst of all possible futures, eternal war of the trees; nothing besides remains round the decay of that collosal wreck.
+1 favor alea  
+1 grudge library
+Oath of the Peach Tree  
 
 
 
