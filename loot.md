@@ -20,7 +20,7 @@ residue of nastiness in a vial (DC 14 dex save vs poisoned)
 Scroll of Misty step - spend 1 pt of library faction for false afterimage    
 Starting Items  
 Champion Warhorse "Fuss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp when dropped)  
-Vaghalter Mercy - dagger that prevents resurrection 
+Vaghalter Mercy - dagger that prevents resurrection  
 High abyssal spellbook - expend written spell to cast - used wall of force, remove curse - (dig, dimension door, fire shield, ice storm, charm monster, animate dead, teleport, cone of cold, wall of iron, stone to flesh, anti-magic shell)  
 Low abyssal spellbook- expend written spell to cast - used arcane lock - (read magic, burning hands, write, dancing lights, enlarge, friends, spider climb, hold portal, levitate, invisibility, wizard lock, locate object, knock, explosive runes, fly, blink, protection from normal missiles)  
 
