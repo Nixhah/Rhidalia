@@ -55,9 +55,6 @@ Champion Warhorse "Muss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp wh
 
   
 ## The Kitty
-the adventure that maimed him, thus he is dependent upon her for spells. She does not charge him anything for reading her book as long as he keeps her informed about new people in town. He is clever and will try to trick a party into telling him their business without revealing that he is really a spy for the mayor. He does not know the mayor is part of the guild nor that three assassins stay in the inn. If the inn is attacked or if the innkeeper enters melee, Glami will support the innkeeper. He does not know of Abra¬ ham’s psionic powers nor that Philmar, Oscar, and Basmar are assassins.
-
-James, Balmar, Falpir, and Rillis are
-5001.8 gp  
+4971.8 gp  
 +1 Dagger  
 +1 Leather Armor  
