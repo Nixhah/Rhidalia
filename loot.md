@@ -12,7 +12,7 @@ Potion of Extra Healing (1d8 x3 or 3d8+3)
 Boots of Elvenkind  
 Shortsword +1 (Yassan)  
 Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD - on Fuss
-Spellbook(Darkness, Suggestion, Shield, Illusory Script, Unseen Servant, Sleep, Silent Image, Find Familiar, Identify, Grease, Hypnotic Pattern, Magic Circle, Augury, Hold Person, Disguise Self, Counterspell, Dispel Magic, Leomund's Tiny Hut, Sleet Storm, Speak w/ Dead, Slow, Sending, Enhance Ability, Misty Step, Clairivoyance, Major Image, Fire Trap, Feather fall, Charm on steroids (permanent-    ish))  
+Spellbook(Darkness, Suggestion, Shield, Illusory Script, Unseen Servant, Sleep, Silent Image, Find Familiar, Identify, Grease, Hypnotic Pattern, Magic Circle, Augury, Hold Person, Disguise Self, Counterspell, Dispel Magic, Leomund's Tiny Hut, Sleet Storm, Speak w/ Dead, Slow, Sending, Enhance Ability, Misty Step, Clairivoyance, Major Image, Fire Trap, Feather fall, Charm on steroids (permanent-ish))  
 Brooch of Shielding (35 pts magic missile damage)   
 5 Yassan Thunder Arrows  
 6 Yassan Poisoned Arrows  
@@ -55,6 +55,6 @@ Champion Warhorse "Muss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp wh
 
   
 ## The Kitty
-4955.8 gp  
+4905.8 gp  
 +1 Dagger  
 +1 Leather Armor  
