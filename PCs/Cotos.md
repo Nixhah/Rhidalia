@@ -33,7 +33,7 @@ I have 6 tool proficiencies apparently wtf
 ## Abilities 
 Metamagic Adept (subtle spell, twinned spell)  
 Arcane Recovery(3)    
-Portent(16, 11)    
+Portent(5, 16)    
 Darkvision 60ft  
 Resist Poison + advantage on saves vs poison  
 Stonecunning  
