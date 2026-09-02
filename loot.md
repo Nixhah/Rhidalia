@@ -58,3 +58,6 @@ Champion Warhorse "Muss" in Chain Mail(28 hp, 14 con, 16 AC, 1/day go to 1 hp wh
 4905.8 gp  
 +1 Dagger  
 +1 Leather Armor  
+3 vials of heavy "mist"
+poisoned dagger dc 15 or 7d6 damage
+Lothar's Mirror
