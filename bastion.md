@@ -8,3 +8,7 @@ Hireling: Velkar, human fighter 4
 ## Underground Complex - Living Space
 We live here  
 Access to Old Guard Home, West Wind, the Scriptorium, and the River
+
+
+Tesh - 1st Level Henchman
+The Three Campbell Cousins 10 gp/day
