@@ -6,7 +6,8 @@ As you can see, Cotos has appropriated most of the loot with his long, spindly f
 Longsword +1 (Altan Ordu sabre)  
 Chainmail +2 (Altan Ordu)  
 Ring of Invisibility (1/day)   
-Yassan Compound Bow (shortbow range but 1d8)      
+Yassan Compound Bow (shortbow range but 1d8) 
+Wand of Magic Missile
 Boots of Elvenkind  
 Shortsword +1 (Yassan)  
 Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD - on Fuss
