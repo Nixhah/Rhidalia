@@ -5,10 +5,8 @@ As you can see, Cotos has appropriated most of the loot with his long, spindly f
  Pearl worth 100 gp (for Identify)  
 Longsword +1 (Altan Ordu sabre)  
 Chainmail +2 (Altan Ordu)  
-Ring of Invisibility (1/day)  
-Wand of Magic Missile (7 charges, no recharge)  
-Yassan Compound Bow (shortbow range but 1d8)    
-Potion of Extra Healing (1d8 x3 or 3d8+3)   
+Ring of Invisibility (1/day)   
+Yassan Compound Bow (shortbow range but 1d8)      
 Boots of Elvenkind  
 Shortsword +1 (Yassan)  
 Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD - on Fuss
