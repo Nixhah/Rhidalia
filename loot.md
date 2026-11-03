@@ -11,7 +11,7 @@ Wand of Magic Missile
 Boots of Elvenkind  
 Shortsword +1 (Yassan)  
 Medalion of the Triple Obelisk, the gate - not yet - save vs sleep if at most 4 HD - on Fuss
-Spellbook(Darkness, Suggestion, Shield, Illusory Script, Unseen Servant, Sleep, Silent Image, Find Familiar, Identify, Grease, Hypnotic Pattern, Magic Circle, Augury, Hold Person, Disguise Self, Counterspell, Dispel Magic, Leomund's Tiny Hut, Sleet Storm, Speak w/ Dead, Slow, Detect Thoughts, Sending, Enhance Ability, Misty Step, Clairivoyance, Major Image, Fire Trap, Feather fall, Charm on steroids (permanent-ish))  
+Spellbook(Darkness, Suggestion, Shield, Illusory Script, Unseen Servant, Sleep, Silent Image, Find Familiar, Identify, Grease, Hypnotic Pattern, Magic Circle, Augury, Remove Curse, Hold Person, Disguise Self, Counterspell, Dispel Magic, Leomund's Tiny Hut, Sleet Storm, Speak w/ Dead, Slow, Detect Thoughts, Sending, Enhance Ability, Misty Step, Clairivoyance, Major Image, Fire Trap, Feather fall, Charm on steroids (permanent-ish))  
 Brooch of Shielding (35 pts magic missile damage)   
 5 Yassan Thunder Arrows  
 6 Yassan Poisoned Arrows  
