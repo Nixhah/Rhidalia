@@ -52,6 +52,7 @@ The Tower - worst of all possible futures, eternal war of the trees; nothing bes
 1 favor alea  
 1 grudge library
 Oath of the Peach Tree  
+Advantage on next sleeper artifact identification check
 
 
 
